@@ -4,13 +4,6 @@ Hi 👋 My name is Ayden Kauffman
 Student at the Univeristy of Pittsburgh
 ---------------------------------------
 
-I started off coding websites in HTML/CSS and react but have recently found a passion in backend and systems programing
-
-* 🌍  I'm based in Pittsburgh
-* 🖥️  See my portfolio at [My website](http://AKauffy.github.io)
-* ✉️  You can contact me at [aak105@pitt.edu](mailto:aak105@pitt.edu)
-* 🧠  I'm learning Rust
-
 ### Skills
 
 <p align="left">
