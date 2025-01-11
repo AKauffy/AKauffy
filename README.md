@@ -1,7 +1,8 @@
-Hi 👋 My name is Ayden Kauffman
+Hi My name is Ayden Kauffman
 ===============================
 
-Student at the Univeristy of Pittsburgh
+Software Engineer 
+Pitt Graduate
 ---------------------------------------
 
 ### Skills
